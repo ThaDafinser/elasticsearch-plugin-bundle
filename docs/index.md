@@ -6,7 +6,7 @@ Since this plugin is a bundle of many plugins, it comes with a bunch of features
 
 ## APIs
 - [ISBN](api/isbn.md)
-- [Langdetect](api/langdetect.md)
+- Langdetect
 
 ## Mapping
 
